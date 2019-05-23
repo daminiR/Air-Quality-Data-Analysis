@@ -92,8 +92,7 @@ Clone the github repo including source.
 
 
 ---
-> GitHub [@DaminiR](https://github.com/daminiR/) &nbsp;&middot;&nbsp;
-> LinkedIn [Damini K Rijhwani](www.linkedin.com/in/drijhwan)
-
+> LinkedIn [Damini K Rijhwani](https://www.linkedin.com/in/drijhwan)
+> GitHub [@DaminiR](https://github.com/daminiR/) 
 
 
