@@ -78,9 +78,9 @@ and National Ambient Quality Standards information  per county for all states. S
 of density of air quality measures based on geolocation was a useful graph. The second graph is a timeline heatmap representing the adverse of the amount of days NAAQ 
 standards were exceeded for all states. The third plot is an interactive plot used to showcase the changes for three diferent evaluation of air quality.  
 
-The number of days with 8-hour average ozone concentrations over the NAAQ standards <br/>
-The % of days with PM2.5 levels over the NAAQS <br/>
-Annual Average ambient concentration of PM2.5 <br/>
+1- The number of days with 8-hour average ozone concentrations over the NAAQ standards <br/>
+2- The % of days with PM2.5 levels over the NAAQS <br/>
+3- Annual Average ambient concentration of PM2.5 <br/>
 
 Complete analysis is provided in github repo.
 
