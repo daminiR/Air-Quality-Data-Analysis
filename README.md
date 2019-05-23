@@ -25,10 +25,10 @@
 </p>
 
 <p align="center">
-   <a href="#download">Key Features</a> •
+   <a href="#key-features">Key Features</a> •
   <a href="#intro">Intro</a> •
-  <a href="#key-features">Approach to Problem</a> •
-  <a href="#how-to-use">Tasks Accomplished</a> •
+  <a href="#Approach-to-Problem">Approach to Problem</a> •
+  <a href="#Tasks-Accomplished">Tasks Accomplished</a> •
   <a href="#download">Download</a> •
 </p>
 
@@ -59,7 +59,9 @@ My approach to solving this problem was to gather appropriate dataset
   PM for counties and also the exceeded levels of NAAQs permitted levels of gas emissions for 
   several gases qualified as pollutants.  2.5 PM is the particulate matter that have a diameter
    of less than 2.5 micrometers. 
-   
+ 
+<div id=”mainDiv”, align="center">
+ 
 ![](heatmaps_air_quality.png)
 
 
