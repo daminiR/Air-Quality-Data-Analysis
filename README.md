@@ -54,8 +54,7 @@ estimate the origins and patterns of harmful emissions.
 ## Approach to Problem
 
 My approach to solving this problem was to gather appropriate dataset
- that represent all states and counties within US. There is a public dataset 
- available for public use. The dataset contains annual information on the average 2.5
+ that represent all states and counties within US.  The dataset contains annual information on the average 2.5
   PM for counties and also the exceeded levels of NAAQs permitted levels of gas emissions for 
   several gases qualified as pollutants.  2.5 PM is the particulate matter that have a diameter
    of less than 2.5 micrometers. 
@@ -76,7 +75,12 @@ Three graphs for visualization which have several versions of the graph for diff
 controlled variable, such as year, and state are generated to analyze affects of air quality.  
 The first graph is a spatial heatmap of the United States. The dataset has particulate matter (PM2.5) 
 and National Ambient Quality Standards information  per county for all states. So a visual representation 
-of density of air quality measures based on geolocation was a useful graph. 
+of density of air quality measures based on geolocation was a useful graph. The second graph is a timeline heatmap representing the adverse of the amount of days NAAQ 
+standards were exceeded for all states. The third plot is an interactive plot used to showcase the changes for three diferent evaluation of air quality.  
+
+The number of days with 8-hour average ozone concentrations over the NAAQ standards <br/>
+The % of days with PM2.5 levels over the NAAQS <br/>
+Annual Average ambient concentration of PM2.5 <br/>
 
 Complete analysis is provided in github repo.
 
