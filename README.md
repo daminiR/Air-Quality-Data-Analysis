@@ -37,9 +37,9 @@
 
 ## Key Features 
 
-Interactive plots for separate years of analysis
-Spatial Heatmaps
-Heatmaps with timeline to uncover changes in data to environmental acts passed during certain years
+Interactive plots for separate years of analysis<br/>
+Spatial Heatmaps<br/>
+Heatmaps with timeline to uncover changes in data to environmental acts passed during certain years<br/>
 
 ## Intro 
 
