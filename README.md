@@ -29,7 +29,7 @@
   <a href="#intro">Intro</a> •
   <a href="#Approach-to-Problem">Approach to Problem</a> •
   <a href="#Tasks-Accomplished">Tasks Accomplished</a> •
-  <a href="#download">Download</a> •
+  <a href="#download">Download</a>
 </p>
 
 <div id=”mainDiv”, align="center">
