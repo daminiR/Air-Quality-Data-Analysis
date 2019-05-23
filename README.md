@@ -2,7 +2,7 @@
 title: "Final_Project_part1"
 author: "Damini Rijhwani"
 date: "4/2/2019"
-output: html_document
+output: rmarkdown::github_document
 runtime: shiny
 ---
 
